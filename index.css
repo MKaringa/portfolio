@@ -53,3 +53,8 @@ h1{
     font-size: 100px;
     margin: 10px, 0, 10px, 0;
 }
+
+.container, p{
+    text-align: center;
+    font-size: 70px;
+}
