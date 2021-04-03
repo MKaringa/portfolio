@@ -3,7 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: gray;
+    
 }
 
 li, a, button{
@@ -19,6 +19,8 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
+    background-color: rgb(204, 152, 55);
+    border-radius: 10px;
 }
 
 .logo{
@@ -33,4 +35,21 @@ header{
     display: inline-block;
     padding: 0px 20%;
 
+}
+
+.container{
+    background-image: url(./images/bg.1.jpg);
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    margin-top: 4px;   
+    border-radius: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    color: orangered;
+    font-size: 100px;
+    margin: 10px, 0, 10px, 0;
 }
