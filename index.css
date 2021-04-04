@@ -106,3 +106,22 @@ h1{
     }
 }
 
+.title{
+    text-align: center;
+    color: orange;
+    margin-top: 15px;
+   
+
+}
+
+#favBand {
+    color: black;
+    font-size: 20px;
+}
+#favBand, li{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+    
+
+}
