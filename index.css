@@ -66,3 +66,23 @@ h1{
 .profile, img{
     border-radius: 50px;
 }
+.banner{
+    position: relative;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.heading{
+    color: blue;
+    position:absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    top: 40%;
+    z-index: 7;
+}
+
+
