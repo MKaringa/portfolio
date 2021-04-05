@@ -39,7 +39,7 @@ header{
 
 .container{
     background-image: url(./images/bg.1.jpg);
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-position: center;
     margin-top: 4px;   
@@ -110,6 +110,7 @@ h1{
     text-align: center;
     color: orange;
     margin-top: 15px;
+    
    
 
 }
@@ -124,4 +125,10 @@ h1{
     text-align: center;
     
 
+}
+.breeds{
+    width: 800px;
+    display: flex;
+    margin: auto;
+    
 }
