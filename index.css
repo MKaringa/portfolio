@@ -178,4 +178,21 @@ h1{
     background-image: url(./images/profilebg.jpg);
     width: 100%;
     height: 300px;
+    display: flex;
+    align-content: center;
+}
+.hobbies{
+    float: right;
+    margin: auto;
+}
+.profileimg{
+    float: left;
+    margin-left: 30px;
+}
+.wrapper1 h1{
+    font-size: 30px;
+    color: blue;
+    margin: 10px;
+    align-content: center;
+
 }
