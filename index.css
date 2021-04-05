@@ -147,3 +147,11 @@ h1{
     float: left;  
 
 }
+
+.prgph{
+    background-color: gray;
+    width: 600px;
+    float: right;
+    height: auto;
+    
+}
