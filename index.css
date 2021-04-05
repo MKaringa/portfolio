@@ -166,3 +166,11 @@ h1{
     background-image: url(./images/aboutbg.jpg);
     margin: 0;
 }
+.wrapper h1{
+    font-size: 40px;
+    color: blue;
+    margin-top: 10px;
+}
+.intro{
+    margin-top: 20px;
+}
