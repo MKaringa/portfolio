@@ -46,3 +46,5 @@ To fix a bug or enhance an existing module, follow these steps:
   
 # Known Bugs
 Images might take a little long to load.
+# License
+This project is licensed under the [MIT license](LICENSE).
